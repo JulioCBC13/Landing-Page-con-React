@@ -1,5 +1,5 @@
 import React from "react";
-import "/workspace/react-hello/src/styles/Albunes.css"
+import "/workspace/Landing-Page-con-React/src/styles/Albunes.css"
  
 const Albunes = () => {
 	return (

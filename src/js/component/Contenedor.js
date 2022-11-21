@@ -1,5 +1,5 @@
 import React from "react";
-import "/workspace/react-hello/src/styles/Contenedor.css"
+import "/workspace/Landing-Page-con-React/src/styles/Contenedor.css"
  
 const Contenedor = () => {
 	return (

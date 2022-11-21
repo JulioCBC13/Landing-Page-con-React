@@ -2,7 +2,7 @@ import React from "react";
 import Navbar from "./Navbar";
 import Contenedor from "./Contenedor";
 import Albunes from "./Albunes";
-import "/workspace/react-hello/src/styles/home.css"
+import "/workspace/Landing-Page-con-React/src/styles/home.css"
 
 
 //create your first component
